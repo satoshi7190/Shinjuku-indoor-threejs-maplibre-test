@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ShinjukuTerminal_0_Fixture",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "ce2194a967bb47ac9cfc057493ec054a", "category": "C010", "floor_id": "1a4d4b0a91ba4287a3c920ff50163ef8", "source": "1" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 15551364.148661836981773, 4258618.06668131891638 ], [ 15551362.004098825156689, 4258617.595691868104041 ], [ 15551358.835311740636826, 4258632.811960224993527 ], [ 15551360.983947843313217, 4258633.263397443108261 ], [ 15551364.148661836981773, 4258618.06668131891638 ] ] ] } }
+]
+}
